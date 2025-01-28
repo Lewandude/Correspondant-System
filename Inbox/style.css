@@ -1,0 +1,1254 @@
+.inbox {
+    position: relative;
+    width: 1280px;
+    height: 832px;
+    background-color: #000000;
+    border-radius: 30px;
+    overflow: hidden;
+  }
+  
+  .inbox .overlap {
+    position: absolute;
+    width: 909px;
+    height: 635px;
+    top: 139px;
+    left: 314px;
+  }
+  
+  .inbox .ellipse {
+    position: absolute;
+    width: 720px;
+    height: 569px;
+    top: 25px;
+    left: 74px;
+    background-color: #01a85ab2;
+    border-radius: 360px/284.5px;
+    filter: blur(400px);
+  }
+  
+  .inbox .rectangle {
+    position: absolute;
+    width: 909px;
+    height: 634px;
+    top: 1px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 16px;
+  }
+  
+  .inbox .text-wrapper {
+    top: 58px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .div {
+    top: 106px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-2 {
+    top: 154px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-3 {
+    top: 202px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-4 {
+    top: 250px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-5 {
+    top: 298px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-6 {
+    top: 346px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-7 {
+    top: 394px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-8 {
+    top: 442px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-9 {
+    top: 490px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-10 {
+    top: 538px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-11 {
+    top: 586px;
+    position: absolute;
+    left: 802px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-12 {
+    position: absolute;
+    top: 58px;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-13 {
+    top: 106px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-14 {
+    top: 154px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-15 {
+    top: 202px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-16 {
+    top: 250px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-17 {
+    top: 298px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-18 {
+    top: 346px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-19 {
+    top: 394px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-20 {
+    top: 442px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-21 {
+    top: 490px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-22 {
+    top: 538px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .text-wrapper-23 {
+    top: 586px;
+    position: absolute;
+    left: 81px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .request-for-training {
+    position: absolute;
+    width: 570px;
+    top: 58px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .span {
+    color: #000000;
+  }
+  
+  .inbox .text-wrapper-24 {
+    color: #c1c1c1;
+  }
+  
+  .inbox .lorem-ipsum-dolor {
+    position: absolute;
+    width: 570px;
+    top: 106px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .p {
+    top: 154px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .lorem-ipsum-dolor-2 {
+    top: 202px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .lorem-ipsum-dolor-3 {
+    top: 250px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .lorem-ipsum-dolor-4 {
+    top: 298px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .lorem-ipsum-dolor-5 {
+    top: 346px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .lorem-ipsum-dolor-6 {
+    top: 394px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .lorem-ipsum-dolor-7 {
+    top: 442px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .lorem-ipsum-dolor-8 {
+    top: 490px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .lorem-ipsum-dolor-9 {
+    top: 538px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .lorem-ipsum-dolor-10 {
+    top: 586px;
+    position: absolute;
+    width: 570px;
+    left: 185px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .star {
+    top: 60px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .img {
+    top: 108px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-2 {
+    top: 156px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-3 {
+    top: 204px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-4 {
+    top: 252px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-5 {
+    top: 300px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-6 {
+    top: 348px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-7 {
+    top: 396px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-8 {
+    top: 444px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-9 {
+    top: 492px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-10 {
+    top: 540px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .star-11 {
+    top: 588px;
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 50px;
+  }
+  
+  .inbox .line {
+    width: 908px;
+    top: 90px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-2 {
+    width: 908px;
+    top: 138px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-3 {
+    width: 908px;
+    top: 186px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-4 {
+    width: 908px;
+    top: 234px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-5 {
+    width: 908px;
+    top: 282px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-6 {
+    width: 908px;
+    top: 330px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-7 {
+    width: 908px;
+    top: 378px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-8 {
+    width: 908px;
+    top: 426px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-9 {
+    width: 908px;
+    top: 474px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-10 {
+    width: 908px;
+    top: 522px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-11 {
+    width: 908px;
+    top: 570px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .line-12 {
+    width: 908px;
+    top: 618px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .frame {
+    display: flex;
+    width: 909px;
+    height: 43px;
+    align-items: center;
+    gap: 22px;
+    padding: 10px 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #01a85a4c;
+    border-radius: 16px 16px 0px 0px;
+  }
+  
+  .inbox .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 2.7px;
+    padding: 2.7px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 3px;
+  }
+  
+  .inbox .rectangle-2 {
+    position: relative;
+    width: 12.81px;
+    height: 12.81px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #000000;
+  }
+  
+  .inbox .polygon {
+    position: relative;
+    width: 7.01px;
+    height: 6.07px;
+  }
+  
+  .inbox .img-2 {
+    position: relative;
+    width: 18px;
+    height: 18px;
+  }
+  
+  .inbox .frame-3 {
+    display: flex;
+    flex-direction: column;
+    width: 8px;
+    align-items: flex-start;
+    gap: 2px;
+    position: relative;
+  }
+  
+  .inbox .ellipse-2 {
+    position: relative;
+    width: 4px;
+    height: 4px;
+    background-color: #000000;
+    border-radius: 2px;
+  }
+  
+  .inbox .group {
+    position: absolute;
+    width: 179px;
+    height: 24px;
+    top: 10px;
+    left: 697px;
+  }
+  
+  .inbox .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    position: relative;
+  }
+  
+  .inbox .arrow-left-wrapper {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .arrow-left {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 5px;
+    left: 5px;
+  }
+  
+  .inbox .text-wrapper-25 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 1.28px;
+    line-height: normal;
+  }
+  
+  .inbox .rectangle-3 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 60px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-4 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 108px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-5 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 156px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-6 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 204px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-7 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 252px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-8 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 300px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-9 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 348px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-10 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 396px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-11 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 444px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-12 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 492px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-13 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 540px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .rectangle-14 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 588px;
+    left: 27px;
+    border-radius: 2.7px;
+    border: 1.5px solid;
+    border-color: #c1c1c1;
+  }
+  
+  .inbox .side-tab {
+    position: absolute;
+    width: 233px;
+    height: 734px;
+    top: 42px;
+    left: 57px;
+  }
+  
+  .inbox .overlap-group {
+    position: relative;
+    height: 734px;
+    border-radius: 24px;
+  }
+  
+  .inbox .line-wrapper {
+    position: absolute;
+    width: 233px;
+    height: 734px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 24px;
+    overflow: hidden;
+  }
+  
+  .inbox .line-13 {
+    width: 174px;
+    top: 638px;
+    left: 30px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .inbox .frame-5 {
+    display: flex;
+    width: 211px;
+    height: 38px;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 18px;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    border-radius: 16px;
+  }
+  
+  .inbox .dashboard-square {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    margin-top: -1.2px;
+    margin-bottom: -1.2px;
+  }
+  
+  .inbox .text-wrapper-26 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 208px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    padding: 8px 18px;
+    position: absolute;
+    top: 201px;
+    left: 13px;
+    border-radius: 16px;
+  }
+  
+  .inbox .frame-6 {
+    display: flex;
+    height: 22.56px;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .inbox .img-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    margin-top: -0.72px;
+    margin-bottom: -0.72px;
+  }
+  
+  .inbox .div-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 208px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    padding: 8px 18px;
+    position: absolute;
+    top: 246px;
+    left: 13px;
+    background-color: #01a85a;
+    border-radius: 16px;
+  }
+  
+  .inbox .text-wrapper-27 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .frame-7 {
+    display: inline-flex;
+    height: 23px;
+    align-items: center;
+    gap: 8px;
+    position: absolute;
+    top: 668px;
+    left: 70px;
+  }
+  
+  .inbox .logo {
+    display: inline-flex;
+    height: 88px;
+    align-items: center;
+    position: absolute;
+    top: 22px;
+    left: 23px;
+  }
+  
+  .inbox .NPA-logo-wrapper {
+    position: relative;
+    width: 115.62px;
+    height: 94.02px;
+    margin-top: -2.83px;
+    margin-bottom: -2.83px;
+    background-color: #ffffff;
+    border-radius: 38.12px;
+  }
+  
+  .inbox .NPA-logo {
+    display: flex;
+    width: 64px;
+    height: 64px;
+    align-items: center;
+    gap: 5.08px;
+    position: relative;
+    top: 15px;
+    left: 27px;
+    background-color: #ffffff;
+  }
+  
+  .inbox .jpmp-x {
+    position: relative;
+    width: 63.53px;
+    height: 63.53px;
+  }
+  
+  .inbox .nigerian-port {
+    position: relative;
+    width: fit-content;
+    margin-left: -18.81px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .inbox .send-memo {
+    position: absolute;
+    width: 911px;
+    height: 76px;
+    top: 42px;
+    left: 314px;
+  }
+  
+  .inbox .overlap-2 {
+    position: relative;
+    width: 909px;
+    height: 76px;
+    background-color: #ffffff;
+    border-radius: 16px;
+  }
+  
+  .inbox .notification-wrapper {
+    display: inline-flex;
+    height: 37px;
+    align-items: center;
+    gap: 24px;
+    position: absolute;
+    top: 19px;
+    left: 855px;
+  }
+  
+  .inbox .notification {
+    position: relative;
+    width: 30px;
+    height: 37.5px;
+    margin-top: -0.25px;
+    margin-bottom: -0.25px;
+  }
+  
+  .inbox .overlap-group-2 {
+    position: relative;
+    height: 38px;
+  }
+  
+  .inbox .ellipse-3 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 0;
+    left: 18px;
+    background-color: var(--red);
+    border-radius: 5.25px;
+  }
+  
+  .inbox .notification-2 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 8px;
+    left: 0;
+  }
+  
+  .inbox .text-wrapper-28 {
+    position: absolute;
+    top: 31px;
+    left: 24px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .inbox .frame-8 {
+    display: flex;
+    width: 1368px;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 8px 453px;
+    position: absolute;
+    top: 796px;
+    left: -33px;
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 1px 4px #0000001a;
+  }
+  
+  .inbox .c-wrapper {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    border: 1px solid;
+    border-color: var(--npa-color);
+  }
+  
+  .inbox .c {
+    position: absolute;
+    width: 8px;
+    height: 9px;
+    top: 4px;
+    left: 4px;
+  }
+  
+  .inbox .text-wrapper-29 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--npa-color);
+    font-size: 16px;
+    letter-spacing: 1.28px;
+    line-height: normal;
+  }
+  

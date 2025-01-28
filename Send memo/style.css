@@ -1,0 +1,497 @@
+.send-memo {
+    position: relative;
+    width: 1280px;
+    height: 800px;
+    background-color: #000000;
+    border-radius: 30px;
+    overflow: hidden;
+  }
+  
+  .send-memo .overlap {
+    position: absolute;
+    width: 909px;
+    height: 584px;
+    top: 142px;
+    left: 314px;
+    border-radius: 16px;
+  }
+  
+  .send-memo .ellipse {
+    position: absolute;
+    width: 720px;
+    height: 569px;
+    top: 6px;
+    left: 74px;
+    background-color: #01a85ab2;
+    border-radius: 360px/284.5px;
+    filter: blur(400px);
+  }
+  
+  .send-memo .rectangle {
+    position: absolute;
+    width: 909px;
+    height: 584px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 16px;
+  }
+  
+  .send-memo .frame {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 54px;
+    left: 840px;
+    background-color: #eaeaea;
+    border-radius: 8px;
+  }
+  
+  .send-memo .arrow-right-round {
+    position: relative;
+    width: 24.5px;
+    height: 24.5px;
+  }
+  
+  .send-memo .line {
+    width: 908px;
+    top: 107px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .send-memo .img {
+    width: 908px;
+    top: 168px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .send-memo .line-2 {
+    width: 908px;
+    top: 229px;
+    left: 1px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .send-memo .div-wrapper {
+    display: flex;
+    width: 909px;
+    height: 43px;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #01a85a4c;
+    border-radius: 16px 16px 0px 0px;
+  }
+  
+  .send-memo .text-wrapper {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .send-memo .div {
+    display: inline-flex;
+    align-items: center;
+    gap: 24px;
+    position: absolute;
+    top: 512px;
+    left: 584px;
+  }
+  
+  .send-memo .img-2 {
+    position: relative;
+    width: 36px;
+    height: 36px;
+  }
+  
+  .send-memo .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #01a85a80;
+    border-radius: 12px;
+  }
+  
+  .send-memo .img-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .send-memo .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .send-memo .text-wrapper-3 {
+    position: absolute;
+    top: 69px;
+    left: 24px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .send-memo .text-wrapper-4 {
+    position: absolute;
+    top: 129px;
+    left: 24px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .send-memo .text-wrapper-5 {
+    position: absolute;
+    top: 190px;
+    left: 24px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .send-memo .side-tab {
+    position: absolute;
+    width: 233px;
+    height: 700px;
+    top: 26px;
+    left: 50px;
+    background-color: #ffffff;
+    border-radius: 24px;
+  }
+  
+  .send-memo .line-3 {
+    width: 174px;
+    top: 621px;
+    left: 30px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .send-memo .frame-3 {
+    display: inline-flex;
+    height: 23px;
+    align-items: center;
+    gap: 8px;
+    position: absolute;
+    top: 651px;
+    left: 70px;
+  }
+  
+  .send-memo .img-4 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    margin-top: -0.72px;
+    margin-bottom: -0.72px;
+  }
+  
+  .send-memo .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .send-memo .frame-4 {
+    display: flex;
+    width: 211px;
+    height: 38px;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 18px;
+    position: absolute;
+    top: 187px;
+    left: 10px;
+    border-radius: 16px;
+  }
+  
+  .send-memo .dashboard-square {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    margin-top: -1.21px;
+    margin-bottom: -1.21px;
+  }
+  
+  .send-memo .frame-5 {
+    display: flex;
+    width: 210px;
+    height: 38px;
+    align-items: center;
+    gap: 8px;
+    padding: 11px 18px;
+    position: absolute;
+    top: 233px;
+    left: 11px;
+    background-color: #01a85a;
+    border-radius: 16px;
+  }
+  
+  .send-memo .mail-send {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    margin-top: -4px;
+    margin-bottom: -4px;
+  }
+  
+  .send-memo .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .send-memo .frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 208px;
+    height: 38px;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 8px 18px;
+    position: absolute;
+    top: 282px;
+    left: 13px;
+    border-radius: 16px;
+  }
+  
+  .send-memo .frame-6 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    margin-bottom: -2px;
+  }
+  
+  .send-memo .frame-7 {
+    display: flex;
+    width: 193px;
+    height: 22.55px;
+    align-items: center;
+    gap: 8px;
+    position: absolute;
+    top: 337px;
+    left: 23px;
+  }
+  
+  .send-memo .logo {
+    display: inline-flex;
+    height: 88px;
+    align-items: center;
+    position: absolute;
+    top: 50px;
+    left: 23px;
+  }
+  
+  .send-memo .NPA-logo-wrapper {
+    position: relative;
+    width: 115.62px;
+    height: 94.02px;
+    margin-top: -2.84px;
+    margin-bottom: -2.84px;
+    background-color: #ffffff;
+    border-radius: 38.12px;
+  }
+  
+  .send-memo .NPA-logo {
+    display: flex;
+    width: 64px;
+    height: 64px;
+    align-items: center;
+    gap: 5.08px;
+    position: relative;
+    top: 15px;
+    left: 27px;
+    background-color: #ffffff;
+  }
+  
+  .send-memo .jpmp-x {
+    position: relative;
+    width: 63.53px;
+    height: 63.53px;
+  }
+  
+  .send-memo .nigerian-port {
+    position: relative;
+    width: fit-content;
+    margin-left: -18.81px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .send-memo .overlap-wrapper {
+    position: absolute;
+    width: 911px;
+    height: 76px;
+    top: 42px;
+    left: 314px;
+  }
+  
+  .send-memo .overlap-group {
+    position: relative;
+    width: 909px;
+    height: 76px;
+    background-color: #ffffff;
+    border-radius: 16px;
+  }
+  
+  .send-memo .notification-wrapper {
+    display: inline-flex;
+    height: 37px;
+    align-items: center;
+    gap: 24px;
+    position: absolute;
+    top: 19px;
+    left: 855px;
+  }
+  
+  .send-memo .notification {
+    position: relative;
+    width: 30px;
+    height: 37.5px;
+    margin-top: -0.25px;
+    margin-bottom: -0.25px;
+  }
+  
+  .send-memo .overlap-group-2 {
+    position: relative;
+    height: 38px;
+  }
+  
+  .send-memo .ellipse-2 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 0;
+    left: 18px;
+    background-color: var(--red);
+    border-radius: 5.25px;
+  }
+  
+  .send-memo .notification-2 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 8px;
+    left: 0;
+  }
+  
+  .send-memo .text-wrapper-8 {
+    position: absolute;
+    top: 31px;
+    left: 24px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .send-memo .frame-8 {
+    display: flex;
+    width: 1368px;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 8px 453px;
+    position: absolute;
+    top: 764px;
+    left: -33px;
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 1px 4px #0000001a;
+  }
+  
+  .send-memo .group {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    border: 1px solid;
+    border-color: var(--npa-color);
+  }
+  
+  .send-memo .c {
+    position: absolute;
+    width: 8px;
+    height: 9px;
+    top: 4px;
+    left: 4px;
+  }
+  
+  .send-memo .p {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--npa-color);
+    font-size: 16px;
+    letter-spacing: 1.28px;
+    line-height: normal;
+  }
+  

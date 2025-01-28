@@ -1,0 +1,271 @@
+.login-page {
+  position: relative;
+  width: 1580px;
+  height: 832px;
+  background: rgb(1, 168, 90);
+  background: radial-gradient(circle, rgba(1, 168, 90, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  overflow: hidden;
+}
+
+.login-page .overlap-group {
+  position: relative;
+  width: 500px;
+  top: 114px;
+  left: 362px;
+}
+
+.login-page .frame {
+  display: flex;
+  flex-direction: column;
+  width: 556px;
+  align-items: flex-start;
+  gap: 35px;
+  position: absolute;
+  top: 2px;
+  left: 0;
+}
+
+.login-page .div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 36px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login-page .frame-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 46px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login-page .text-wrapper {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.login-page .frame-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login-page .text-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.login-page .input-email {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 56px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border: none;
+  /* Remove default border */
+  padding: 0 16px;
+  /* Add some padding for text */
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 16px;
+  color: #000000;
+  /* Set text color */
+  outline: none;
+  /* Remove outline on focus */
+}
+
+.login-page .input-email::placeholder {
+  color: #999999;
+  /* Placeholder text color */
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 16px;
+}
+
+.login-page .input-password {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 56px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border: none;
+  /* Remove default border */
+  padding: 0 16px;
+  /* Add some padding for text */
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 16px;
+  color: #000000;
+  /* Set text color */
+  outline: none;
+  /* Remove outline on focus */
+}
+
+.login-page .input-password::placeholder {
+  color: #999999;
+  /* Placeholder text color */
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 16px;
+}
+
+.login-page .text-wrapper-3 {
+  position: absolute;
+  top: 60px;
+  left: 18px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #c1c1c1;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.login-page .text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-decoration: underline;
+}
+
+.login-page .login-button {
+  display: flex;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 6px 147px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #01a85a99;
+  border-radius: 16px;
+  border: none; /* Remove default button border */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  font-family: inherit; /* Inherit font from parent */
+  color: inherit; /* Inherit text color from parent */
+  user-select: none;
+}
+
+.login-page button.login-button:hover {
+  background-color: #01A85A;
+}
+
+.login-page .text-wrapper-5{
+  font-weight: 600; /* Ensure text is bold */
+}
+
+.login-page .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+.login-page .notification {
+  display: none; /* Hidden by default */
+  margin-top: 16px;
+  padding: 12px;
+  background-color: #ffebee; /* Light red background */
+  color: #c62828; /* Dark red text */
+  border-radius: 8px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 14px;;
+}
+.login-page .text-wrapper-6 {
+  position: absolute;
+  width: 117px;
+  top: 482px;
+  left: 0;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #01a85a;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.login-page .frame-4 {
+  display: inline-flex;
+  align-items: center;
+  position: absolute;
+  top: 17px;
+  left: 12px;
+}
+
+.login-page .logo {
+  position: relative;
+  width: 153.67px;
+  height: 124.96px;
+
+  border-radius: 50.66px;
+}
+
+.login-page .NPA-logo {
+  display: flex;
+  width: 84px;
+  height: 84px;
+  align-items: center;
+  gap: 6.75px;
+  position: relative;
+  top: 20px;
+  left: 35px;
+  background-color: #000000;
+}
+
+.login-page .jpmp-x {
+  position: relative;
+  width: 84.43px;
+  height: 84.43px;
+}
+
+.login-page .nigerian-port {
+  position: relative;
+  width: fit-content;
+  margin-left: -25px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 18px;
+}

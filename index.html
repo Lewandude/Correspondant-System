@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="globals.css" />
+  <link rel="stylesheet" href="style.css" />
+
+<body>
+  <div class="login-page">
+    <div class="frame-4">
+      <div class="logo">
+        <div class="NPA-logo"><img class="jpmp-x" src="img/_J3PmP49_400x400-removebg-preview 1.png" /></div>
+      </div>
+      <div class="nigerian-port">Nigerian<br />Port<br />Authority</div>
+    </div>
+
+    <div class="overlap-group">
+      <div class="frame" style="margin-left: 25%;">
+        <div class="div">
+          <div class="frame-2">
+            <div class="text-wrapper" style="font-weight: 700;">Admin Login</div>
+            <div class="frame-3">
+              <div class="text-wrapper-2" style="font-weight: 500;">Email</div>
+              <input type="email" class="input-email" placeholder="Enter email...">
+            </div>
+            <div class="frame-3">
+              <div class="text-wrapper-2" style="font-weight: 500;">Password</div>
+              <input type="password" class="input-password" placeholder="Enter password...">
+            </div>
+          </div>
+          <div class="text-wrapper-4">Forget password?</div>
+
+          <button class="login-button" id="login-button">
+            <div class="text-wrapper-5">Login</div>
+          </button>
+        </div>
+        <div class="text-wrapper-4">Create an account</div>
+        <div class="text-wrapper-6">Staff Login</div>
+        <!-- Notification message -->
+        <div class="notification" id="notification"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JavaScript -->
+  <script>
+    document.getElementById("login-button").addEventListener("click", function () {
+        const emailInput = document.querySelector(".input-email");
+        const passwordInput = document.querySelector(".input-password");
+        const notification = document.getElementById("notification");
+
+        // Reset notification
+        notification.style.display = "none";
+        notification.textContent = "";
+
+        // Check if email is empty
+        if (emailInput.value.trim() === "") {
+            notification.textContent = "Please fill in your email.";
+            notification.style.display = "block";
+            return;
+        }
+
+        // Check if password is empty
+        if (passwordInput.value.trim() === "") {
+            notification.textContent = "Please input your password.";
+            notification.style.display = "block";
+            return;
+        }
+
+        // If both fields are filled
+        notification.style.display = "none";
+        window.location.href = "Admin dashboard/admin-index.html"; // Redirect to the homepage
+    });
+</script>
+</body>
+
+</html>

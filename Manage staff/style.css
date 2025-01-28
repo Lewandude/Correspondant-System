@@ -1,0 +1,1110 @@
+.manage-staff-dark {
+    position: relative;
+    width: 1280px;
+    height: 803px;
+    background-color: #000000;
+    border-radius: 30px;
+    overflow: hidden;
+  }
+  
+  .manage-staff-dark .overlap {
+    position: absolute;
+    width: 909px;
+    height: 600px;
+    top: 142px;
+    left: 314px;
+    border-radius: 16px;
+  }
+  
+  .manage-staff-dark .ellipse {
+    position: absolute;
+    width: 505px;
+    height: 505px;
+    top: 7px;
+    left: 74px;
+    background-color: #01a85a;
+    border-radius: 252.5px;
+    filter: blur(400px);
+  }
+  
+  .manage-staff-dark .frame {
+    position: absolute;
+    width: 909px;
+    height: 600px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  
+  .manage-staff-dark .add-staff {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 38px;
+    position: absolute;
+    top: 522px;
+    left: 684px;
+    background-color: #01a85a80;
+    border-radius: 16px;
+  }
+  
+  .manage-staff-dark .img {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .manage-staff-dark .text-wrapper {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .first-name {
+    position: absolute;
+    width: 386px;
+    height: 51px;
+    top: 21px;
+    left: 34px;
+  }
+  
+  .manage-staff-dark .div-wrapper {
+    display: flex;
+    width: 386px;
+    height: 30px;
+    align-items: center;
+    gap: 5.73px;
+    padding: 9.17px 5.73px;
+    position: absolute;
+    top: 21px;
+    left: 0;
+    border-radius: 7.45px;
+    border: 0.57px solid;
+    border-color: #c1c1c180;
+  }
+  
+  .manage-staff-dark .div {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.34px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--primary-element-color);
+    font-size: 9.2px;
+    letter-spacing: 0.73px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .group {
+    position: absolute;
+    width: 89px;
+    height: 21px;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .overlap-group {
+    position: relative;
+    width: 85px;
+    height: 21px;
+  }
+  
+  .manage-staff-dark .text-wrapper-2 {
+    position: absolute;
+    width: 85px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .text-wrapper-3 {
+    width: 10px;
+    left: 75px;
+    font-size: 17.2px;
+    letter-spacing: 1.38px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .mobile-no {
+    position: absolute;
+    width: 386px;
+    height: 51px;
+    top: 96px;
+    left: 34px;
+  }
+  
+  .manage-staff-dark .frame-2 {
+    display: flex;
+    width: 386px;
+    height: 30px;
+    align-items: center;
+    gap: 4.42px;
+    padding: 7.07px 4.42px;
+    position: absolute;
+    top: 21px;
+    left: 0;
+    border-radius: 5.74px;
+    border: 0.44px solid;
+    border-color: #c1c1c180;
+  }
+  
+  .manage-staff-dark .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--primary-element-color);
+    font-size: 7.1px;
+    letter-spacing: 0.57px;
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .group-2 {
+    position: absolute;
+    width: 107px;
+    height: 21px;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .text-wrapper-5 {
+    position: absolute;
+    width: 89px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .text-wrapper-6 {
+    width: 13px;
+    left: 90px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .email {
+    position: absolute;
+    width: 386px;
+    height: 51px;
+    top: 171px;
+    left: 34px;
+  }
+  
+  .manage-staff-dark .overlap-group-wrapper {
+    position: absolute;
+    width: 84px;
+    height: 21px;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .overlap-group-2 {
+    position: relative;
+    width: 80px;
+    height: 21px;
+  }
+  
+  .manage-staff-dark .text-wrapper-7 {
+    position: absolute;
+    width: 70px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .text-wrapper-8 {
+    width: 13px;
+    left: 67px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .department {
+    position: absolute;
+    width: 386px;
+    height: 51px;
+    top: 246px;
+    left: 34px;
+  }
+  
+  .manage-staff-dark .frame-3 {
+    display: flex;
+    width: 386px;
+    height: 30px;
+    align-items: center;
+    gap: 287px;
+    padding: 7.07px 4.42px;
+    position: absolute;
+    top: 21px;
+    left: 0;
+    border-radius: 5.74px;
+    border: 0.44px solid;
+    border-color: #c1c1c180;
+  }
+  
+  .manage-staff-dark .img-2 {
+    position: relative;
+    width: 10.6px;
+    height: 10.6px;
+  }
+  
+  .manage-staff-dark .group-3 {
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .overlap-group-3 {
+    position: relative;
+    width: 126px;
+    height: 20px;
+  }
+  
+  .manage-staff-dark .text-wrapper-9 {
+    position: absolute;
+    width: 126px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .text-wrapper-10 {
+    width: 13px;
+    left: 87px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .DOB {
+    position: absolute;
+    width: 386px;
+    height: 51px;
+    top: 321px;
+    left: 34px;
+  }
+  
+  .manage-staff-dark .frame-4 {
+    display: flex;
+    width: 386px;
+    height: 31px;
+    align-items: center;
+    gap: 341px;
+    padding: 7.07px 4.42px;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    border-radius: 5.74px;
+    border: 0.44px solid;
+    border-color: #c1c1c180;
+  }
+  
+  .manage-staff-dark .text-wrapper-11 {
+    width: 12px;
+    left: 90px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .department-2 {
+    position: absolute;
+    width: 386px;
+    height: 51px;
+    top: 246px;
+    left: 483px;
+  }
+  
+  .manage-staff-dark .frame-5 {
+    width: 386px;
+    height: 30px;
+    gap: 269px;
+    padding: 7.07px 4.42px;
+    top: 21px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    border-radius: 5.74px;
+    border: 0.44px solid;
+    border-color: #c1c1c180;
+  }
+  
+  .manage-staff-dark .group-4 {
+    position: absolute;
+    width: 136px;
+    height: 20px;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .overlap-group-4 {
+    position: relative;
+    width: 132px;
+    height: 20px;
+  }
+  
+  .manage-staff-dark .text-wrapper-12 {
+    position: absolute;
+    width: 127px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .text-wrapper-13 {
+    width: 13px;
+    left: 119px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .address {
+    position: absolute;
+    width: 835px;
+    height: 51px;
+    top: 396px;
+    left: 34px;
+  }
+  
+  .manage-staff-dark .frame-6 {
+    width: 835px;
+    height: 29px;
+    gap: 17.67px;
+    padding: 7.07px 5.3px;
+    top: 22px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    border-radius: 5.74px;
+    border: 0.44px solid;
+    border-color: #c1c1c180;
+  }
+  
+  .manage-staff-dark .text-wrapper-14 {
+    position: absolute;
+    width: 80px;
+    top: 6px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .text-wrapper-15 {
+    width: 13px;
+    left: 54px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .overlap-wrapper {
+    position: absolute;
+    width: 266px;
+    height: 42px;
+    top: 471px;
+    left: 34px;
+  }
+  
+  .manage-staff-dark .overlap-2 {
+    position: relative;
+    height: 42px;
+  }
+  
+  .manage-staff-dark .frame-7 {
+    width: 266px;
+    height: 25px;
+    justify-content: flex-end;
+    gap: 3.53px;
+    padding: 7.07px 10.6px 7.07px 5.3px;
+    top: 17px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    border-radius: 5.74px;
+    border: 0.44px solid;
+    border-color: #c1c1c180;
+  }
+  
+  .manage-staff-dark .group-5 {
+    width: 79px;
+    height: 19px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .overlap-group-5 {
+    position: relative;
+    width: 75px;
+    height: 19px;
+  }
+  
+  .manage-staff-dark .text-wrapper-16 {
+    position: absolute;
+    width: 75px;
+    top: 4px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .text-wrapper-17 {
+    width: 9px;
+    left: 46px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .state {
+    position: absolute;
+    width: 387px;
+    height: 51px;
+    top: 321px;
+    left: 483px;
+  }
+  
+  .manage-staff-dark .frame-8 {
+    width: 387px;
+    height: 30px;
+    gap: 78.62px;
+    padding: 7.07px 5.3px;
+    top: 21px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    border-radius: 5.74px;
+    border: 0.44px solid;
+    border-color: #c1c1c180;
+  }
+  
+  .manage-staff-dark .arrow-down-sharp {
+    position: relative;
+    width: 4.68px;
+    height: 4.68px;
+  }
+  
+  .manage-staff-dark .group-6 {
+    width: 286px;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .overlap-group-6 {
+    position: relative;
+    width: 282px;
+    height: 20px;
+  }
+  
+  .manage-staff-dark .text-wrapper-18 {
+    position: absolute;
+    width: 282px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .text-wrapper-19 {
+    width: 24px;
+    left: 100px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .email-2 {
+    position: absolute;
+    width: 386px;
+    height: 51px;
+    top: 96px;
+    left: 483px;
+  }
+  
+  .manage-staff-dark .group-7 {
+    position: absolute;
+    width: 57px;
+    height: 21px;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .overlap-group-7 {
+    position: relative;
+    width: 53px;
+    height: 21px;
+  }
+  
+  .manage-staff-dark .text-wrapper-20 {
+    position: absolute;
+    width: 53px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .text-wrapper-21 {
+    width: 12px;
+    left: 40px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .email-3 {
+    position: absolute;
+    width: 386px;
+    height: 51px;
+    top: 171px;
+    left: 483px;
+  }
+  
+  .manage-staff-dark .group-8 {
+    position: absolute;
+    width: 145px;
+    height: 21px;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .overlap-group-8 {
+    position: relative;
+    width: 141px;
+    height: 21px;
+  }
+  
+  .manage-staff-dark .text-wrapper-22 {
+    position: absolute;
+    width: 130px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .text-wrapper-23 {
+    width: 13px;
+    left: 128px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .last-name {
+    position: absolute;
+    width: 386px;
+    height: 51px;
+    top: 21px;
+    left: 483px;
+  }
+  
+  .manage-staff-dark .group-9 {
+    position: absolute;
+    width: 105px;
+    height: 21px;
+    top: 0;
+    left: 0;
+  }
+  
+  .manage-staff-dark .overlap-group-9 {
+    position: relative;
+    width: 101px;
+    height: 21px;
+  }
+  
+  .manage-staff-dark .text-wrapper-24 {
+    position: absolute;
+    width: 101px;
+    top: 5px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .text-wrapper-25 {
+    width: 12px;
+    left: 73px;
+    font-size: 12px;
+    letter-spacing: 0.96px;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--npa-color);
+    line-height: normal;
+  }
+  
+  .manage-staff-dark .side-tab {
+    position: absolute;
+    width: 233px;
+    height: 700px;
+    top: 42px;
+    left: 58px;
+    background-color: #ffffff;
+    border-radius: 24px;
+  }
+  
+  .manage-staff-dark .line {
+    position: absolute;
+    width: 174px;
+    height: 1px;
+    top: 605px;
+    left: 30px;
+    object-fit: cover;
+  }
+  
+  .manage-staff-dark .frame-9 {
+    display: inline-flex;
+    height: 23px;
+    align-items: center;
+    gap: 8px;
+    position: absolute;
+    top: 635px;
+    left: 70px;
+  }
+  
+  .manage-staff-dark .img-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    margin-top: -0.72px;
+    margin-bottom: -0.72px;
+  }
+  
+  .manage-staff-dark .text-wrapper-26 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .frame-10 {
+    display: flex;
+    width: 211px;
+    height: 38px;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 18px;
+    position: absolute;
+    top: 171px;
+    left: 10px;
+    border-radius: 16px;
+  }
+  
+  .manage-staff-dark .dashboard-square {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    margin-top: -1.21px;
+    margin-bottom: -1.21px;
+  }
+  
+  .manage-staff-dark .frame-11 {
+    display: inline-flex;
+    height: 23px;
+    align-items: center;
+    gap: 8px;
+    position: absolute;
+    top: 231px;
+    left: 23px;
+  }
+  
+  .manage-staff-dark .frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 208px;
+    height: 38px;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 8px 18px;
+    position: absolute;
+    top: 266px;
+    left: 13px;
+    background-color: #01a85a;
+    border-radius: 16px;
+  }
+  
+  .manage-staff-dark .frame-12 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    margin-bottom: -2.42px;
+  }
+  
+  .manage-staff-dark .text-wrapper-27 {
+    color: #ffffff;
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .frame-13 {
+    display: flex;
+    width: 193px;
+    height: 22.55px;
+    align-items: center;
+    gap: 8px;
+    position: absolute;
+    top: 321px;
+    left: 23px;
+  }
+  
+  .manage-staff-dark .logo {
+    display: inline-flex;
+    height: 88px;
+    align-items: center;
+    position: absolute;
+    top: 34px;
+    left: 23px;
+  }
+  
+  .manage-staff-dark .NPA-logo-wrapper {
+    position: relative;
+    width: 115.62px;
+    height: 94.02px;
+    margin-top: -2.84px;
+    margin-bottom: -2.84px;
+    background-color: #ffffff;
+    border-radius: 38.12px;
+  }
+  
+  .manage-staff-dark .NPA-logo {
+    display: flex;
+    width: 64px;
+    height: 64px;
+    align-items: center;
+    gap: 5.08px;
+    position: relative;
+    top: 15px;
+    left: 27px;
+    background-color: #ffffff;
+  }
+  
+  .manage-staff-dark .jpmp-x {
+    position: relative;
+    width: 63.53px;
+    height: 63.53px;
+  }
+  
+  .manage-staff-dark .nigerian-port {
+    position: relative;
+    width: fit-content;
+    margin-left: -18.81px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+  }
+  
+  .manage-staff-dark .welcome-admin {
+    position: absolute;
+    width: 909px;
+    height: 76px;
+    top: 42px;
+    left: 314px;
+    background-color: #ffffff;
+    border-radius: 16px;
+  }
+  
+  .manage-staff-dark .frame-14 {
+    display: inline-flex;
+    align-items: center;
+    gap: 24px;
+    position: absolute;
+    top: 11px;
+    left: 504px;
+  }
+  
+  .manage-staff-dark .search {
+    position: relative;
+    width: 327px;
+    height: 46.59px;
+    background-color: #e8e8e8;
+    border-radius: 19.21px;
+    overflow: hidden;
+    border: 0.96px solid;
+  }
+  
+  .manage-staff-dark .frame-15 {
+    display: flex;
+    width: 134px;
+    align-items: center;
+    gap: 11.77px;
+    position: relative;
+    top: 12px;
+    left: 15px;
+  }
+  
+  .manage-staff-dark .search-2 {
+    position: relative;
+    width: 23.06px;
+    height: 23.06px;
+  }
+  
+  .manage-staff-dark .text-wrapper-28 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--primary-element-color);
+    font-size: 13.4px;
+    letter-spacing: 1.08px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .notification {
+    position: relative;
+    width: 30px;
+    height: 37.5px;
+  }
+  
+  .manage-staff-dark .overlap-group-10 {
+    position: relative;
+    height: 38px;
+  }
+  
+  .manage-staff-dark .ellipse-2 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 0;
+    left: 18px;
+    background-color: var(--red);
+    border-radius: 5.25px;
+  }
+  
+  .manage-staff-dark .notification-2 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 8px;
+    left: 0;
+  }
+  
+  .manage-staff-dark .frame-16 {
+    display: flex;
+    width: 168px;
+    align-items: center;
+    justify-content: center;
+    gap: 33px;
+    position: absolute;
+    top: 22px;
+    left: 55px;
+  }
+  
+  .manage-staff-dark .arrow-left-round {
+    position: relative;
+    width: 33px;
+    height: 33px;
+    margin-left: -33px;
+  }
+  
+  .manage-staff-dark .text-wrapper-29 {
+    position: relative;
+    width: fit-content;
+    margin-right: -33px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    white-space: nowrap;
+  }
+  
+  .manage-staff-dark .frame-17 {
+    display: flex;
+    width: 1368px;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 8px 453px;
+    position: absolute;
+    top: 767px;
+    left: -33px;
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 1px 4px #0000001a;
+  }
+  
+  .manage-staff-dark .c-wrapper {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    border: 1px solid;
+    border-color: var(--npa-color);
+  }
+  
+  .manage-staff-dark .c {
+    position: absolute;
+    width: 8px;
+    height: 9px;
+    top: 4px;
+    left: 4px;
+  }
+  
+  .manage-staff-dark .p {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--npa-color);
+    font-size: 16px;
+    letter-spacing: 1.28px;
+    line-height: normal;
+  }
+  

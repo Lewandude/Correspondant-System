@@ -1,0 +1,79 @@
+.added-succesfully {
+    display: flex;
+    flex-direction: column;
+    width: 401.35px;
+    height: 393px;
+    align-items: center;
+    justify-content: center;
+    gap: 27.13px;
+    padding: 46.6px 105.03px 44px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 24px;
+    overflow: hidden;
+  }
+  
+  .added-succesfully .frame {
+    display: flex;
+    width: 167.63px;
+    height: 167.63px;
+    gap: 5.46px;
+    padding: 32.76px;
+    border-radius: 83.82px;
+    align-items: center;
+    position: relative;
+    background-color: #01a85a;
+  }
+  
+  .added-succesfully .checkmark-circle {
+    position: relative;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .added-succesfully .text-wrapper {
+    position: relative;
+    width: 251.1px;
+    margin-left: -29.91px;
+    margin-right: -29.91px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16.7px;
+    letter-spacing: 0;
+    line-height: 9.4px;
+  }
+  
+  .added-succesfully .div-wrapper {
+    display: inline-flex;
+    justify-content: center;
+    gap: 6.96px;
+    padding: 16.69px 25.04px;
+    flex: 0 0 auto;
+    border-radius: 11.13px;
+    align-items: center;
+    position: relative;
+    background-color: #01a85a;
+  }
+  
+  .added-succesfully .div {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.70px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16.7px;
+    letter-spacing: 0;
+    line-height: 9.4px;
+    white-space: nowrap;
+  }
+  
+  .added-succesfully .cancel {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 17px;
+    left: 365px;
+  }
+  
